@@ -42,9 +42,7 @@ Here are the 30 Most Asked [Frontend Machine Coding Interview Questions](https:/
 ## Beginner Level Machine Coding Questions
 
 ### 1. Increment/Decrement Counter
-A basic counter component that allows users to increase or decrease a numeric value by clicking buttons.
-
-**More Resources:** [View detailed guide on FrontendGeek](https://www.frontendgeek.com/frontend-interview/machine-coding-interview#increment-decrement-counter)
+A basic counter component that allows users to increase or decrease a numeric value by clicking buttons.[More Resources](https://www.frontendgeek.com/frontend-interview/machine-coding-interview)
 
 #### Common Features To Implement:
   - Simple increment and decrement buttons
@@ -70,9 +68,7 @@ A basic counter component that allows users to increase or decrease a numeric va
 ---
 
 ### 2. Responsive Grid
-A flexible grid layout component that adapts to different screen sizes, organizing content in responsive columns with customizable spacing and breakpoints.
-
-**More Resources:** [View detailed guide on FrontendGeek](https://www.frontendgeek.com/frontend-interview/machine-coding-interview#responsive-grid)
+A flexible grid layout component that adapts to different screen sizes, organizing content in responsive columns with customizable spacing and breakpoints.[More Resources](https://www.frontendgeek.com/frontend-interview/machine-coding-interview)
 
 #### Common Features To Implement:
   - Grid layout that adapts to various screen sizes with Responsive breakpoints (mobile, tablet, desktop)
@@ -94,9 +90,7 @@ A flexible grid layout component that adapts to different screen sizes, organizi
 ---
 
 ### 3. Countdown Widget
-A timer component that counts down from a target date/time or duration, displaying the remaining time in days, hours, minutes, and seconds with real-time updates.
-
-**More Resources:** [View detailed guide on FrontendGeek](https://www.frontendgeek.com/frontend-interview/machine-coding-interview#countdown-widget)
+A timer component that counts down from a target date/time or duration, displaying the remaining time in days, hours, minutes, and seconds with real-time updates.[View more resources on FrontendGeek](https://www.frontendgeek.com/frontend-interview/machine-coding-interview#countdown-timer)
 
 #### Common Features To Implement:
   - Set target date/time or duration for countdown
@@ -123,9 +117,7 @@ A timer component that counts down from a target date/time or duration, displayi
 ---
 
 ### 4. Accordion (Static or Dynamic)
-A collapsible content component that allows users to expand and collapse multiple sections, commonly used for FAQs, menus, or grouped information displays.
-
-**More Resources:** [View detailed guide on FrontendGeek](https://www.frontendgeek.com/frontend-interview/machine-coding-interview#accordion)
+A collapsible content component that allows users to expand and collapse multiple sections, commonly used for FAQs, menus, or grouped information displays.[More Resources](https://www.frontendgeek.com/frontend-interview/machine-coding-interview#accordion)
 
 #### Common Features To Implement:
   - Multiple collapsible sections with headers
@@ -156,8 +148,7 @@ A collapsible content component that allows users to expand and collapse multipl
 
 ### 5. Responsive Menu/Nav Bar
 A navigation component that transforms from a horizontal menu on desktop to a hamburger menu on mobile devices with active route highlighting (Smooth animation if required).
-
-**More Resources:** [View detailed guide on FrontendGeek](https://www.frontendgeek.com/frontend-interview/machine-coding-interview#responsive-menu-nav-bar)
+[More Resources](https://www.frontendgeek.com/frontend-interview/machine-coding-interview#menu-bar---responsive)
 
 #### Common Features To Implement:
   - Horizontal navigation menu on desktop
@@ -192,7 +183,7 @@ A navigation component that transforms from a horizontal menu on desktop to a ha
 ### 6. E-Comm Catalog View (Dynamic from API)
 A product catalog component that displays items fetched from an API, with filtering, sorting, search, and pagination capabilities for e-commerce applications.
 
-**More Resources:** [View detailed guide on FrontendGeek](https://www.frontendgeek.com/frontend-interview/machine-coding-interview#e-comm-catalog-view)
+**More Resources:** [View detailed guide on FrontendGeek](https://www.frontendgeek.com/frontend-interview/machine-coding-interview)
 
 #### Common Features To Implement:
   - Display product grid/list from API data
@@ -228,9 +219,7 @@ A product catalog component that displays items fetched from an API, with filter
 ## Intermediate Level Machine Coding Questions
 
 ### 7. Todo Application
-A task management application that allows users to add, edit, delete, and filter todo items, with persistence and keyboard shortcuts support.
-
-**More Resources:** [View detailed guide on FrontendGeek](https://www.frontendgeek.com/frontend-interview/machine-coding-interview#todo-application)
+A task management application that allows users to add, edit, delete, and filter todo items, with persistence and keyboard shortcuts support.[More Resources on FrontendGeek](https://www.frontendgeek.com/frontend-interview/machine-coding-interview#todo-app)
 
 #### Common Features To Implement:
   - Add new todo items
@@ -264,9 +253,7 @@ A task management application that allows users to add, edit, delete, and filter
 ---
 
 ### 8. News Feed / Infinite Scrolling
-A feed component that automatically loads more content as users scroll, displaying posts with engagement features and infinite scrolling.
-
-**More Resources:** [View detailed guide on FrontendGeek](https://www.frontendgeek.com/frontend-interview/machine-coding-interview#news-feed-infinite-scrolling)
+A feed component that automatically loads more content as users scroll, displaying posts with engagement features and infinite scrolling.[More Resources](https://www.frontendgeek.com/frontend-interview/machine-coding-interview#infinite-scroll)
 
 #### Common Features To Implement:
   - fetch API to Load and display feed items
@@ -294,9 +281,7 @@ A feed component that automatically loads more content as users scroll, displayi
 ---
 
 ### 9. Pagination Implementation
-A pagination component that allows users to navigate through large datasets by displaying page numbers with prev/next controls and ellipsis for large page ranges.
-
-**More Resources:** [View detailed guide on FrontendGeek](https://www.frontendgeek.com/frontend-interview/machine-coding-interview#pagination-implementation)
+A pagination component that allows users to navigate through large datasets by displaying page numbers with prev/next controls and ellipsis for large page ranges.[More Resources on FrontendGeek](https://www.frontendgeek.com/frontend-interview/machine-coding-interview#pagination)
 
 #### Common Features To Implement:
   - Display page numbers or prev/next buttons
@@ -327,9 +312,7 @@ A pagination component that allows users to navigate through large datasets by d
 ---
 
 ### 10. Auto-Complete Search / Type-Ahead Search
-A search component that provides real-time suggestions as users type, with debounced API calls, keyboard navigation, and highlighted matching text.
-
-**More Resources:** [View detailed guide on FrontendGeek](https://www.frontendgeek.com/frontend-interview/machine-coding-interview#auto-complete-search)
+A search component that provides real-time suggestions as users type, with debounced API calls, keyboard navigation, and highlighted matching text.[View detailed guide on FrontendGeek](https://www.frontendgeek.com/frontend-interview/machine-coding-interview#auto-complete-search-|-typeahead-search)
 
 #### Common Features To Implement:
   - Search input field
@@ -360,9 +343,7 @@ A search component that provides real-time suggestions as users type, with debou
 ---
 
 ### 11. Star Rating
-An interactive rating component with clickable stars that allows users to select and display ratings, with hover preview effects and customizable appearance.
-
-**More Resources:** [View detailed guide on FrontendGeek](https://www.frontendgeek.com/frontend-interview/machine-coding-interview#star-rating)
+An interactive rating component with clickable stars that allows users to select and display ratin.[More Resources on FrontendGeek](https://www.frontendgeek.com/frontend-interview/machine-coding-interview#star-component)
 
 #### Common Features To Implement:
   - Clickable stars (1-5 rating)
@@ -392,8 +373,6 @@ An interactive rating component with clickable stars that allows users to select
 ### 12. Image Carousel
 A slideshow component that displays multiple images sequentially with navigation controls, auto-play functionality, and smooth transitions between images.
 
-**More Resources:** [View detailed guide on FrontendGeek](https://www.frontendgeek.com/frontend-interview/machine-coding-interview#image-carousel)
-
 #### Common Features To Implement:
   - Display multiple images in sequence
   - Previous/Next navigation buttons
@@ -422,9 +401,7 @@ A slideshow component that displays multiple images sequentially with navigation
 ---
 
 ### 13. Toast Notification
-A notification system that displays temporary messages with different types (success, error, warning), auto-dismiss functionality, and stack management for multiple toasts.
-
-**More Resources:** [View detailed guide on FrontendGeek](https://www.frontendgeek.com/frontend-interview/machine-coding-interview#toast-notification)
+A notification system that displays temporary messages with different types (success, error, warning), auto-dismiss functionality, and stack management for multiple toasts.[View detailed guide on FrontendGeek](https://www.frontendgeek.com/frontend-interview/machine-coding-interview#toast-notification)
 
 #### Common Features To Implement:
   - Show toast messages with different types (success, error, warning, info)
@@ -454,9 +431,7 @@ A notification system that displays temporary messages with different types (suc
 ---
 
 ### 14. Tab Component (Static or Dynamic)
-A tabbed interface component that organizes content into multiple panels, allowing users to switch between different views with keyboard navigation support.
-
-**More Resources:** [View detailed guide on FrontendGeek](https://www.frontendgeek.com/frontend-interview/machine-coding-interview#tab-component)
+A tabbed interface component that organizes content into multiple panels, allowing users to switch between different views with keyboard navigation support.[More Resources](https://www.frontendgeek.com/frontend-interview/machine-coding-interview#tab-bar)
 
 #### Common Features To Implement:
   - Multiple tabs with labels
@@ -486,9 +461,7 @@ A tabbed interface component that organizes content into multiple panels, allowi
 ---
 
 ### 15. Context Menu
-A right-click menu component that appears at the cursor position, providing contextual actions with keyboard navigation and click-outside-to-close functionality.
-
-**More Resources:** [View detailed guide on FrontendGeek](https://www.frontendgeek.com/frontend-interview/machine-coding-interview#context-menu)
+A right-click menu component that appears at the cursor position, providing contextual actions with keyboard navigation and click-outside-to-close functionality.[More Resources](https://www.frontendgeek.com/frontend-interview/machine-coding-interview#popover)
 
 #### Common Features To Implement:
   - Right-click to show menu
@@ -518,9 +491,7 @@ A right-click menu component that appears at the cursor position, providing cont
 ---
 
 ### 16. Progress Bar Component
-A visual indicator component that displays the completion status of a process, showing progress from 0-100% with animated updates and variant styles.
-
-**More Resources:** [View detailed guide on FrontendGeek](https://www.frontendgeek.com/frontend-interview/machine-coding-interview#progress-bar)
+A visual indicator component that displays the completion status of a process, showing progress from 0-100% with animated updates and variant styles.[More Resources](https://www.frontendgeek.com/frontend-interview/machine-coding-interview#pogress-bar)
 
 #### Common Features To Implement:
   - Visual progress indicator (0-100%)
@@ -548,9 +519,7 @@ A visual indicator component that displays the completion status of a process, s
 ---
 
 ### 17. Modal Component
-A dialog component that overlays the main content, displaying focused information or forms with backdrop, focus trapping, and accessibility features.
-
-**More Resources:** [View detailed guide on FrontendGeek](https://www.frontendgeek.com/frontend-interview/machine-coding-interview#modal-component)
+A dialog component that overlays the main content, displaying focused information or forms with backdrop, focus trapping, and accessibility features.[More Resources](https://www.frontendgeek.com/frontend-interview/machine-coding-interview#modal-component)
 
 #### Common Features To Implement:
   - Overlay/backdrop
@@ -583,9 +552,7 @@ A dialog component that overlays the main content, displaying focused informatio
 ---
 
 ### 18. Theme Toggle Switch
-A theme switcher component that allows users to toggle between light and dark modes, persisting preferences and detecting system theme settings.
-
-**More Resources:** [View detailed guide on FrontendGeek](https://www.frontendgeek.com/frontend-interview/machine-coding-interview#theme-toggle-switch)
+A theme switcher component that allows users to toggle between light and dark modes, persisting preferences and detecting system theme settings.[More Resources](https://www.frontendgeek.com/frontend-interview/machine-coding-interview#light-&-dark-theme)
 
 #### Common Features To Implement:
   - Toggle between light and dark themes
@@ -612,9 +579,7 @@ A theme switcher component that allows users to toggle between light and dark mo
 ---
 
 ### 19. OTP Input
-A multi-digit input component for one-time passwords, with auto-focus navigation between fields, paste detection, and keyboard-only numeric input.
-
-**More Resources:** [View detailed guide on FrontendGeek](https://www.frontendgeek.com/frontend-interview/machine-coding-interview#otp-input)
+A multi-digit input component for one-time passwords, with auto-focus navigation between fields, paste detection, and keyboard-only numeric input.[More Resources](https://www.frontendgeek.com/frontend-interview/machine-coding-interview#otp-input-design)
 
 #### Common Features To Implement:
   - Multiple input fields (typically 4-6 digits)
@@ -643,9 +608,7 @@ A multi-digit input component for one-time passwords, with auto-focus navigation
 ---
 
 ### 20. Checkout Page
-A comprehensive checkout form component with multiple sections for shipping, billing, and payment, including validation, order summary, and calculations.
-
-**More Resources:** [View detailed guide on FrontendGeek](https://www.frontendgeek.com/frontend-interview/machine-coding-interview#checkout-page)
+A comprehensive checkout form component with multiple sections for shipping, billing, and payment, including validation, order summary, and calculations.[More Resources](https://www.frontendgeek.com/frontend-interview/machine-coding-interview#e-commerce-app-view)
 
 #### Common Features To Implement:
   - Multiple form sections (shipping, billing, payment)
@@ -676,9 +639,7 @@ A comprehensive checkout form component with multiple sections for shipping, bil
 ---
 
 ### 21. Chips Input
-An input component that allows users to add multiple tag-like chips by typing and pressing Enter, with individual removal and duplicate prevention.
-
-**More Resources:** [View detailed guide on FrontendGeek](https://www.frontendgeek.com/frontend-interview/machine-coding-interview#chips-input)
+An input component that allows users to add multiple tag-like chips by typing and pressing Enter, with individual removal and duplicate prevention.[More Resources](https://www.frontendgeek.com/frontend-interview/machine-coding-interview#chips-input)
 
 #### Common Features To Implement:
   - Add chips by typing and pressing Enter/comma
@@ -710,9 +671,7 @@ An input component that allows users to add multiple tag-like chips by typing an
 ## Advanced Level Machine Coding Questions
 
 ### 22. Multi-Step Form
-A wizard-style form component that breaks complex forms into multiple steps with progress indicators, step validation, and navigation controls.
-
-**More Resources:** [View detailed guide on FrontendGeek](https://www.frontendgeek.com/frontend-interview/machine-coding-interview#multi-step-form)
+A wizard-style form component that breaks complex forms into multiple steps with progress indicators, step validation, and navigation controls.[More Resources](https://www.frontendgeek.com/frontend-interview/machine-coding-interview#multi-step-form)
 
 #### Common Features To Implement:
   - Multiple form steps/pages
@@ -742,9 +701,7 @@ A wizard-style form component that breaks complex forms into multiple steps with
 ---
 
 ### 23. Tree / Folder Navigation
-A hierarchical tree component that displays nested folder/file structures with expand/collapse functionality, search capabilities, and keyboard navigation.
-
-**More Resources:** [View detailed guide on FrontendGeek](https://www.frontendgeek.com/frontend-interview/machine-coding-interview#tree-folder-navigation)
+A hierarchical tree component that displays nested folder/file structures with expand/collapse functionality, search capabilities, and keyboard navigation.[More Resources](https://www.frontendgeek.com/frontend-interview/machine-coding-interview#tree-view-/-folder-view)
 
 #### Common Features To Implement:
   - Hierarchical tree structure display
@@ -774,9 +731,7 @@ A hierarchical tree component that displays nested folder/file structures with e
 ---
 
 ### 24. Comment View / Multi-level Comments
-A nested comment system that displays threaded conversations with replies, voting functionality, and collapsible threads with recursive rendering.
-
-**More Resources:** [View detailed guide on FrontendGeek](https://www.frontendgeek.com/frontend-interview/machine-coding-interview#comment-view-multi-level-comments)
+A nested comment system that displays threaded conversations with replies, voting functionality, and collapsible threads with recursive rendering.[More Resources](https://www.frontendgeek.com/frontend-interview/machine-coding-interview#comment-view-(multi-level))
 
 #### Common Features To Implement:
   - Display nested comments (replies)
@@ -807,9 +762,7 @@ A nested comment system that displays threaded conversations with replies, votin
 ---
 
 ### 25. Checkbox Folder Selection
-A hierarchical checkbox component where parent checkboxes control their children, with indeterminate states and bidirectional state synchronization.
-
-**More Resources:** [View detailed guide on FrontendGeek](https://www.frontendgeek.com/frontend-interview/machine-coding-interview#checkbox-folder-selection)
+A hierarchical checkbox component where parent checkboxes control their children, with indeterminate states and bidirectional state synchronization.[More Resources](https://www.frontendgeek.com/frontend-interview/machine-coding-interview#comment-view-(multi-level))
 
 #### Common Features To Implement:
   - Hierarchical checkbox structure
@@ -839,9 +792,7 @@ A hierarchical checkbox component where parent checkboxes control their children
 ---
 
 ### 26. Kanban Board
-A drag-and-drop task management board with multiple columns (To Do, In Progress, Done) where cards can be moved between columns with full CRUD operations.
-
-**More Resources:** [View detailed guide on FrontendGeek](https://www.frontendgeek.com/frontend-interview/machine-coding-interview#kanban-board)
+A drag-and-drop task management board with multiple columns (To Do, In Progress, Done) where cards can be moved between columns with full CRUD operations.[More Resources](https://www.frontendgeek.com/frontend-interview/machine-coding-interview#kanban-board)
 
 #### Common Features To Implement:
   - Multiple columns (To Do, In Progress, Done)
@@ -873,9 +824,7 @@ A drag-and-drop task management board with multiple columns (To Do, In Progress,
 ---
 
 ### 27. Tic-tac-toe Game
-An interactive tic-tac-toe game component with a 3x3 board, turn-based gameplay, win detection algorithms, and game state management.
-
-**More Resources:** [View detailed guide on FrontendGeek](https://www.frontendgeek.com/frontend-interview/machine-coding-interview#tic-tac-toe-game)
+An interactive tic-tac-toe game component with a 3x3 board, turn-based gameplay, win detection algorithms, and game state management.[More Resources](https://www.frontendgeek.com/frontend-interview/machine-coding-interview#games)
 
 #### Common Features To Implement:
   - 3x3 game board
@@ -906,9 +855,7 @@ An interactive tic-tac-toe game component with a 3x3 board, turn-based gameplay,
 ---
 
 ### 28. Calendar View
-A calendar component that displays a monthly grid view with date navigation, event display, and the ability to view/add events on specific dates.
-
-**More Resources:** [View detailed guide on FrontendGeek](https://www.frontendgeek.com/frontend-interview/machine-coding-interview#calendar-view)
+A calendar component that displays a monthly grid view with date navigation, event display, and the ability to view/add events on specific dates.[More Resources](https://www.frontendgeek.com/frontend-interview/machine-coding-interview#calendar-view)
 
 #### Common Features To Implement:
   - Monthly calendar grid display
@@ -940,9 +887,7 @@ A calendar component that displays a monthly grid view with date navigation, eve
 ---
 
 ### 29. Email Client View
-An email interface component with inbox list, email detail view, compose functionality, filtering, sorting, and folder navigation capabilities.
-
-**More Resources:** [View detailed guide on FrontendGeek](https://www.frontendgeek.com/frontend-interview/machine-coding-interview#email-client-view)
+An email interface component with inbox list, email detail view, compose functionality, filtering, sorting, and folder navigation capabilities.[More Resources](https://www.frontendgeek.com/frontend-interview/machine-coding-interview#email-inbox-view)
 
 #### Common Features To Implement:
   - Email list/inbox view
@@ -976,9 +921,7 @@ An email interface component with inbox list, email detail view, compose functio
 ---
 
 ### 30. Chat Application Interface
-A real-time chat interface component with message list, input field, auto-scroll functionality, typing indicators, and message status tracking.
-
-**More Resources:** [View detailed guide on FrontendGeek](https://www.frontendgeek.com/frontend-interview/machine-coding-interview#chat-application-interface)
+A real-time chat interface component with message list, input field, auto-scroll functionality, typing indicators, and message status tracking.[More Resources](https://www.frontendgeek.com/frontend-interview/machine-coding-interview#messaging-interface)
 
 #### Common Features To Implement:
   - Chat message list with scroll to bottom
